@@ -77,7 +77,7 @@ export default function Event() {
                 <div className="flex justify-start gap-x-2 md:gap-x-4 mt-betweenBoxMd xl:mt-betweenBox px-4 md:px-0">
                     <GoDotFill className="text-base md:text-lg lg:text-xl translate-y-1" />
                     <div className="space-y-4 md:space-y-6">
-                        <motion.h4 className="text-base md:heading-4 font-dancing-script font-bold" {...anim(bluryEffect)}>Thời gian</motion.h4>
+                        <motion.h4 className="text-base md:heading-4 font-dancing-script font-bold" {...anim(bluryEffect)}>Timeline</motion.h4>
                         <motion.ul className="space-y-3 md:space-y-4" {...anim(stagger)}>
                             <Li delay={0.2}>
                                 <IoCalendarClearOutline className="text-xl md:text-2xl" />

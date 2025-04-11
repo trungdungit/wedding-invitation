@@ -38,7 +38,7 @@ export default function Guestbook() {
                 {...anim(bluryEffect)}
             >
                 <h2 className="heading-4 md:heading-3 xl:heading-2 font-dancing-script">Nhắn gửi yêu thương</h2>
-                <p className="text-xs md:text-base font-roboto-slab">Bạn đã làm cho ngày hôm ấy trở nên ý nghĩa, và lời nói của bạn sẽ luôn được ghi nhớ</p>
+                <p className="text-xs md:text-base font-roboto-slab">Từng khung hình là kỷ niệm, từng khoẳnh khác là yêu thương</p>
             </motion.div>
             <div className="mt-10 max-w-xl mx-auto px-5 md:px-0">
                 <Form />

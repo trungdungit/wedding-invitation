@@ -36,8 +36,8 @@ const Content = () => {
         >
             <div className="space-y-10 md:space-y-16 xl:space-y-24 text-center px-2 md:px-12 xl:px-0">
                 <div className="space-y-4">
-                    <h3 className="heading-4 xl:heading-3 font-dancing-script">Cảm ơn</h3>
-                    <p className="text-xs md:text-sm xl:text-base font-roboto-slab">Sẽ là một niềm vinh dự và hạnh phúc cho chúng tôi nếu bạn sẵn lòng hiện diện để chúc phúc cho cô dâu và chú rể.</p>
+                    <h3 className="heading-4 xl:heading-3 font-dancing-script">Trân trọng cảm ơn!</h3>
+                    <p className="text-xs md:text-sm xl:text-base font-roboto-slab">Sự hiện diện của các bạn là niềm hạnh phúc của chúng tôi!</p>
                 </div>
                 <h3 className="heading-4 xl:heading-3 font-dancing-script">
                    Đám cưới của Trung Dũng & Gia Khánh
