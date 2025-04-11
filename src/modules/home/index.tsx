@@ -36,7 +36,7 @@ function Content() {
             <Event />
             <Guestbook />
             <Reservation />
-            <BankATM />
+            {/* <BankATM /> */}
             <Countdown />
             <Footer />
         </React.Fragment>
